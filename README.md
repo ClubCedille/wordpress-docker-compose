@@ -7,6 +7,8 @@
 Make sure you have the latest versions of **Docker** and **Docker Compose** installed on your machine.
 Copy the **docker-compose.yml** file from this repository into a blank folder.
 
+In order to install docker, please se this guide: _https://docs.docker.com/engine/installation/linux/docker-ce/debian/_
+
 In the file you may change the IP address (in case you run multiple containers) or the database from mysql to mariadb.
 
 ##### Create containers
